@@ -48,14 +48,8 @@ bfs(visited,'2',graph)
 
 
 ### Output:
-BFS order is
-2
-3
-4
-5
-6
-7
-8
+![image](https://github.com/Karthick163/AI_Lab_2023-24/assets/123896666/a0d99c8a-7a31-4e5f-b7a4-03ec6f316133)
+
 
 
 
