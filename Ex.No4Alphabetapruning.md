@@ -113,9 +113,4 @@ Thus the best score of max player was found using Alpha Beta Pruning.
 
 
 
-### Output:
 
-
-
-### Result:
-Thus the best score of max player was found using Alpha Beta Pruning.
