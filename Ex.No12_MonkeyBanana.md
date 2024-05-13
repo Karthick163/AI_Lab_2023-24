@@ -62,10 +62,8 @@ Step 7: Stop the program.<br>
 				 (onbox ?y))
 	     :effect (haswater)))
 ```
-
 ### Input 
 ```
-
 (define (problem pb1)
     	(:domain monkey)
   	(:objects p1 p2 p3 p4 bananas monkey box knife)
